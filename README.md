@@ -1,2 +1,1 @@
-Access the Website from here
-https://tubular-starlight-f7adb3.netlify.app/
+# Portfolio Website made using Hugo and PaperMod theme
