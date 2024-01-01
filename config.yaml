@@ -1,6 +1,6 @@
-baseURL: "https://arkalim.org"
+baseURL: "https://example.org/"
 languageCode: en-us
-title: Abdur Rahman
+title: Dinesh
 theme: PaperMod
 
 menu:
@@ -25,14 +25,7 @@ menu:
       name: Search
       url: /search
       weight: 50
-    # - identifier: tags
-    #   name: Tags
-    #   url: /tags
-    #   weight: 60
-    # - identifier: notes
-    #   name: Notes
-    #   url: https://notes.arkalim.org
-    #   weight: 70
+
 
 params:
   # theme
@@ -48,9 +41,9 @@ params:
   # Home Page
   profileMode:
     enabled: true
-    title: "Abdur Rahman"
-    subtitle: Hi 👋! I'm Abdur, an ambitious DevOps Intern at [**16Bit.ai**](https://www.16bit.ai), an innovative healthcare startup in Toronto. Currently pursuing my [**MSc in Applied Computing**](https://mscac.utoronto.ca/) at the esteemed University of Toronto, I bring a solid foundation in Software Engineering with professional experience. I am captivated by the realm of Cloud Computing and DevOps practices, seeking to revolutionize how we deploy applications in the modern era. To enhance my expertise, I have also obtained AWS associate-level certifications as a Solutions Architect and Developer, further bolstering my skills in the cloud computing domain. My unwavering curiosity and drive push me to explore fresh avenues to redefine technological frontiers. During my leisure hours, I channel my creativity into crafting engaging YouTube 🎬 videos, where I share my journey as an international student in Canada 🇨🇦.
-    imageUrl: "home/formal-pic-small.jpeg"
+    title: "D R Dinesh Kumar"
+    subtitle: Hi 👋! I'm Dinesh, an ambitious Intern at [**DataWise**](https://mydatawise.com/), a leading data analytics, management, and technology consulting company, which works with clients across the world. I possess advanced expertise in software engineering and actively contribute to the community by leveraging my skills. I have a keen interest in and passion for AI, machine learning, and various facets of software engineering. As a dedicated learner, I believe in the philosophy of learning in public and consistently contribute back to the community. My learning approach is project-based, allowing me to gain practical experience and apply my knowledge effectively.
+    imageUrl: "home/dineshphotoportfolio.jpg"
     imageWidth: 220
     imageHeight: 220
     # buttons:
@@ -67,15 +60,15 @@ params:
 
   socialIcons:
     - name: "email"
-      url: "mailto:abdur.rahman.kalim@gmail.com"
+      url: "mailto:dineshkumardavanam@gmail.com"
     - name: "linkedin"
-      url: "https://www.linkedin.com/in/abdurrahmankalim"
+      url: "https://www.linkedin.com/in/drdk02/"
     - name: "github"
-      url: "https://github.com/arkalim"
-    - name: "youtube"
-      url: "https://www.youtube.com/c/AbdurRahmanKalim"
+      url: "https://github.com/dineshkumardavanam"
+    # - name: "youtube"
+    #   url: "https://www.youtube.com/c/AbdurRahmanKalim"
     - name: "cv"
-      url: "https://drive.google.com/file/d/1U6Gg2RnHSCthtWLbZJBlAEI3V1WGjZty/view"
+      url: "https://docs.google.com/document/d/1_f8Hxcz6JfqmzQVRkwiD01OtJi1S6VgTUFyd8FA2GGU/edit?usp=sharing"
 
   # text search
   fuseOpts:
