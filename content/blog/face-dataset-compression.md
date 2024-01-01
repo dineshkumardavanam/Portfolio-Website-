@@ -103,6 +103,3 @@ We can see that the reconstructed images have captured most of the relevant info
 
 If you made it till here, hats off to you! In this article, we learnt how PCA can be used to compress **Labelled Faces in the Wild (LFW),** a large scale dataset consisting of 13233 human-face images, each having a dimension of **64x64**. We compressed this dataset by over 80% while retaining 99% of the information.
 
-# Colab Notebook
-
-View my [Colab Notebook](https://colab.research.google.com/drive/1QZYqjLm_rLxkgR6COMjjBicHSLMwKxF-) for a well commented code!
