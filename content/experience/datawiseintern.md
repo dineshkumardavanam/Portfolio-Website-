@@ -3,6 +3,7 @@ title: "Tech Intern"
 description: "DataWise (Hyderabad)"
 dateString: Jan 2023 - Ongoing
 draft: false
+tags: ["Machine Learning", "Deep Learning", "Artificial Intellegence", "PowerBI", "Data Analyst", "Data Science", "Data Extraction", "Data Transformation","Deployment","Flask"]
 
 showToc: false
 weight: 301
