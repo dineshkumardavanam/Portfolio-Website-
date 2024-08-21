@@ -21,6 +21,10 @@ menu:
       name: Experience
       url: /experience
       weight: 40
+    - identifier: education
+      name: Education
+      url: /education
+      weight: 40
     - identifier: search
       name: Search
       url: /search
@@ -42,8 +46,8 @@ params:
   profileMode:
     enabled: true
     title: "D R Dinesh Kumar"
-    subtitle: Hi 👋! I'm Dinesh, an ambitious Intern at [**DataWise**](https://mydatawise.com/), a leading data analytics, management, and technology consulting company, which works with clients across the world. I possess advanced expertise in software engineering and actively contribute to the community by leveraging my skills. I have a keen interest in and passion for AI, machine learning, and various facets of software engineering. As a dedicated learner, I believe in the philosophy of learning in public and consistently contribute back to the community. My learning approach is project-based, allowing me to gain practical experience and apply my knowledge effectively.
-    imageUrl: "home/dineshphotoportfolio.jpg"
+    subtitle: Hi 👋! I'm Dinesh, I am a passionate AI enthusiast with a strong foundation in Artificial Intelligence and Machine Learning, dedicated to creating innovative solutions that push the boundaries of technology. My academic and professional journey has equipped me with expertise in data science, machine learning, and AI engineering, with hands-on experience in projects like news classification, phishing website detection, and credit card fraud analysis. Proficient in Python, Java, SQL, and JavaScript, I leverage tools such as TensorFlow, Pandas, and Power BI to transform data into actionable insights. I am committed to contributing to the development of intelligent systems that drive innovation, enhance efficiency, and make a meaningful impact across industries. Let's connect and explore opportunities to shape the future of technology together.
+    imageUrl: "home/IMG_0155.jpg"
     imageWidth: 220
     imageHeight: 220
     # buttons:
@@ -60,13 +64,11 @@ params:
 
   socialIcons:
     - name: "email"
-      url: "mailto:dineshkumardavanam@gmail.com"
+      url: "mailto:dineshkumardavanam02@gmail.com"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/drdk02/"
     - name: "github"
       url: "https://github.com/dineshkumardavanam"
-    # - name: "youtube"
-    #   url: "https://www.youtube.com/c/AbdurRahmanKalim"
     - name: "cv"
       url: "https://docs.google.com/document/d/1_f8Hxcz6JfqmzQVRkwiD01OtJi1S6VgTUFyd8FA2GGU/edit?usp=sharing"
 
