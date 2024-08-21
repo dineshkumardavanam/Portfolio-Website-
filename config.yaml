@@ -51,7 +51,7 @@ params:
     imageWidth: 220
     imageHeight: 220
 
-  favicon: "/images/favicon.png."
+  favicon: "images/favicon.png."
 
     # buttons:
     #   - name: Resume
