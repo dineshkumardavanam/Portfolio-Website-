@@ -47,9 +47,9 @@ params:
     enabled: true
     title: "Dinesh Kumar"
     subtitle: Hi 👋! I'm Dinesh, I am a passionate AI enthusiast with a strong foundation in Artificial Intelligence and Machine Learning, dedicated to creating innovative solutions that push the boundaries of technology. My academic and professional journey has equipped me with expertise in data science, machine learning, and AI engineering, with hands-on experience in projects like news classification, phishing website detection, and credit card fraud analysis. Proficient in Python, Java, SQL, and JavaScript, I leverage tools such as TensorFlow, Pandas, and Power BI to transform data into actionable insights. I am committed to contributing to the development of intelligent systems that drive innovation, enhance efficiency, and make a meaningful impact across industries. Let's connect and explore opportunities to shape the future of technology together.
-    imageUrl: "home/IMG_0155-photoaidcom-cropped.jpg"
-    # imageWidth: 260
-    # imageHeight: 260
+    imageUrl: "home/myphoto.jpg"
+    imageWidth: 220
+    imageHeight: 220
     # buttons:
     #   - name: Resume
     #     url: ""
